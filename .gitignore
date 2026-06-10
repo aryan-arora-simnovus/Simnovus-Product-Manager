@@ -60,3 +60,9 @@ out/
 # macOS
 .AppleDouble
 .LSOverride
+
+backend/keys/
+*.pem
+id_rsa
+id_rsa.pub
+sshkey.txt
